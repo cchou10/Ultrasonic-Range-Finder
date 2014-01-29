@@ -1,4 +1,4 @@
-Lab5
+ECE4760 Lab 5
 ====
 
 Final project for ECE4760, the 'Bat Hat'
